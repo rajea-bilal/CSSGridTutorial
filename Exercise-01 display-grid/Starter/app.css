@@ -58,6 +58,6 @@ h1 {
   width: 900px;
 
   /* ⬇️⬇️⬇️ STYLE THE GRID CONTAINER HERE ⬇️⬇️⬇️ */
-
+  grid-template-columns: 1fr 1fr 1fr;
   /* ⬆️⬆️⬆️ STYLE THE GRID CONTAINER HERE ⬆️⬆️⬆️ */
 }
